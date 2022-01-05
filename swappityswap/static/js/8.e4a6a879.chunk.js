@@ -1,0 +1,2 @@
+(this["webpackJsonp@violeta.at.bww/swappityswap"]=this["webpackJsonp@violeta.at.bww/swappityswap"]||[]).push([[8],{1207:function(n,t){},936:function(n,t){},937:function(n,t){},963:function(n,t){},964:function(n,t){},970:function(n,t){}}]);
+//# sourceMappingURL=8.e4a6a879.chunk.js.map
